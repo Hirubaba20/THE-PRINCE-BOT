@@ -120,8 +120,8 @@ global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
 
 
 //Sticker WM
-global.botname = 'NINJA-𝘉𝘖𝘛-𝘔𝘋'
-global.princebot = '🛡️NINJA-𝘉𝘖𝘛-𝘔𝘋🛡️'
+global.botname = 'MARLEYISHU-𝘉𝘖𝘛-𝘔𝘋'
+global.princebot = '🛡️MARLEYISHU-𝘉𝘖𝘛-𝘔𝘋🛡️'
 global.packname = 'Prince♥️' 
 global.author = 'Prince♥️' 
 global.princeig = 'https://www.instagram.com' 
